@@ -1,8 +1,6 @@
 # Azure App Service & Azure SQL
 
-### Wymagania na warsztaty:
+{% page-ref page="wymagania-na-warsztaty.md" %}
 
-TBA...
-
-
+{% page-ref page="materialy.md" %}
 
