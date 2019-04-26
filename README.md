@@ -22,9 +22,12 @@ Nie jesteś z Białegostoku lub nie możesz dotrzeć? - nic straconego! Materia�
 * Zainstalowane Visual Studio 2017+ lub Visual Studio Code \(z zainstalowanymi Azure extensions\)
 * Zainstalowane SQL Server Management Studio
 * Subskrypcja w Microsoft Azure \(jedna z dostępnych\)
+
   * Darmowe konto studenckie \(wymagany jest email studenta, np. @student.pb.edu.pl dla Politechniki Białostockiej\) 
   * Darmowe konto próbne na Dev Essentials 
   * Subskrypcja Pay-As-You-Go
+
+{% page-ref page="zalozenie-konta/" %}
 
 ### Plan warsztatów:
 
