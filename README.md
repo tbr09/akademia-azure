@@ -27,8 +27,6 @@ Nie jesteś z Białegostoku lub nie możesz dotrzeć? - nic straconego! Materia�
   * Darmowe konto próbne na Dev Essentials 
   * Subskrypcja Pay-As-You-Go
 
-{% page-ref page="zalozenie-konta/" %}
-
 ### Plan warsztatów:
 
 1. Wprowadzenie do Microsoft Azure.
