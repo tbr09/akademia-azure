@@ -7,5 +7,9 @@
   * [Pay-As-You-Go](zalozenie-konta/pay-as-you-go.md)
 * [Azure App Service & Azure SQL](azure-app-service-and-azure-sql/README.md)
   * [Wymagania na warsztaty](azure-app-service-and-azure-sql/wymagania-na-warsztaty.md)
-  * [Materiały](azure-app-service-and-azure-sql/materialy.md)
+  * [Materiały](azure-app-service-and-azure-sql/materialy/README.md)
+    * [Tworzenie usługi App Service.](azure-app-service-and-azure-sql/materialy/hosting-aplikacji-na-azure-app-service-i-z-wykorzystaniem-azure-sql..md)
+    * [Publikowanie aplikacji na App Service](azure-app-service-and-azure-sql/materialy/publikowanie-aplikacji-na-app-service.md)
+    * [Azure SQL Database](azure-app-service-and-azure-sql/materialy/azure-sql-database.md)
+    * [Usunięcie zasobów](azure-app-service-and-azure-sql/materialy/usuniecie-zasobow.md)
 

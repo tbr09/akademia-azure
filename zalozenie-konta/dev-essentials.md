@@ -6,7 +6,7 @@
 * 12 miesięczny dostęp do wybranych usług
 * Pewną listę usług Azure dostępnych za darmo na stałe
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 Rejestracja: [https://visualstudio.microsoft.com/dev-essentials](https://visualstudio.microsoft.com/dev-essentials)
 

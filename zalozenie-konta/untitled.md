@@ -16,16 +16,16 @@ Lista usług: [https://azure.microsoft.com/en-us/free/free-account-students-faq/
 * Wchodzimy na stronę [https://azure.microsoft.com/en-us/free/students/  ](https://azure.microsoft.com/en-us/free/students/
   )
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image.png)
 
 * Przechodzimy do formularza zakładania subskrypcji poprzez "Activate Now"
 * Wypełniamy kolejne kroki formularza
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 * Gotowe! Twoja subskrypcja jest już gotowa do użycia :\)
 
