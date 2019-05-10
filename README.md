@@ -31,7 +31,7 @@ Nie jesteś z Białegostoku lub nie możesz dotrzeć? - nic straconego! Materia�
 
 1. Wprowadzenie do Microsoft Azure.
 2. Azure App Service & Azure SQL - wdrożenie pierwszej aplikacji \(**09.05.2019**\)
-3. Azure Storage - pliki, kolejki, tabele 
+3. Azure Storage - pliki, kolejki, tabele \(**16.05.2019**\)
 4. Azure Search - zaawansowana wyszukiwarka w kilku krokach
 5. Cognitive Services - sztuczna inteligencja w Microsoft Azure
 6. Logic Apps - pierwsze kroki w Serverless
