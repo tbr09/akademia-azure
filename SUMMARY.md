@@ -14,5 +14,12 @@
     * [Usunięcie zasobów](azure-app-service-and-azure-sql/materialy/usuniecie-zasobow.md)
 * [Azure Storage Account](azure-storage-account/README.md)
   * [Wymagania na warsztaty](azure-storage-account/wymagania-na-warsztaty.md)
-  * [Materiały](azure-storage-account/materialy.md)
+  * [Materiały](azure-storage-account/materialy/README.md)
+    * [Azure Storage Account](azure-storage-account/materialy/azure-storage-account.md)
+    * [Tworzenie usługi Storage Account](azure-storage-account/materialy/tworzenie-uslugi-storage-account.md)
+    * [Blob storage](azure-storage-account/materialy/blob-storage.md)
+    * [Table storage](azure-storage-account/materialy/table-storage.md)
+    * [Queue storage](azure-storage-account/materialy/queue-storage.md)
+    * [Połączenie Blob Storage z aplikacją](azure-storage-account/materialy/polaczenie-blob-storage-z-aplikacja.md)
+  * [Praca domowa](azure-storage-account/praca-domowa.md)
 
