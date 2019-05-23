@@ -4,7 +4,7 @@ Teraz stwórzmy naszą bazę danych i połączmy ją z naszą aplikacją.
 
 Wejdźmy na portal Azure i stwórzmy nową usługę SQL Database.
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 ![](../../.gitbook/assets/image%20%2840%29.png)
 
@@ -12,13 +12,13 @@ W formularzu wybieramy subskrypcję, grupę zasobów i nazwę naszej bazy danych
 
 W formularzu po prawej stronie wypełniamy wszytkie pola: nazwę serwera, dane admina \(to tymi danymi będziem logować się do usługi Azure SQL Server, którą tworzymy\), lokalizację. Jest tu też checkbox Allow Azure services to access server, który zostawiam zaznaczony. Następnie na dole klikamy Select.
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 W ramach jednej usługi Azure SQL Server można mieć wiele baz danych \(usługa Azure SQL Database\).
 
 Wracając do formularza z naszą bazą danych. Mamy tu opcję Compute + Storage, która określa tier naszej bazy danych \(cena, wielkość i dostępne zasoby\). Wybieramy opcję Configure Database.
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](../../.gitbook/assets/image%20%2893%29.png)
 
 Teraz mamy do wyboru opcje dotyczące warstwy cenowej naszej bazy danych. Po prawej można zobaczyć ile zapłacimy za miesiąc działania naszej bazy danych. Wybieramy tier Basic i ustawiamy wielkość bazy na 100 MB oraz zatwierdzamy Apply.
 
@@ -30,11 +30,11 @@ Następnie w formularzy wybieramy Create + Review, aby zobaczyć podsumowanie na
 
 Teraz wybieramy Create, aby w końcu stworzyć bazę danych.
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 Po utworzeniu bazy danych znajdujemy ją w naszej grupie zasobów. Możemy tu zobaczyć podsumowanie naszej usługi i dostępne opcje konfiguracyjne. Nas interesuje zakładka Connection strings po prawej.
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
 Po wejściu w nią kopiujemy naszego connection string zamieniając w nim fragmenty {your\_username} na nazwę admina stworzonej wcześniej usługi SQL Server i {your\_password} na hasło, które wcześniej ustawiliśmy. Tak spreparowany connection string zapisujemy sobie w bezpiecznym miejscu - będzie nam za chwilę potrzebny.
 
@@ -50,11 +50,11 @@ Wybieramy tu opcję New connection string i w otwartym formularzu jako Name poda
 
 Następnie na górze wybieramy opcję Save.
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 Teraz nasza aplikacja powinna działać już poprawnie.
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
 
 

@@ -20,13 +20,13 @@ c\) Tworzymy naszą bazę danych wybierając odpowiednie opcje:
 
 * tworzymy nowy serwer, w którym będzie się znajdować nasza baza danych
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2886%29.png)
 
 
 
 * uwaga, nazwa serwera musi być unikatowa, czyli taka jak jest na zdjęciu poniżej nie przejdzie -&gt; dostaniesz błąd, musisz wybrać swoją nazwę, lub dopisać do tej nazwy kilka losowych znaków
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
 
 
@@ -34,19 +34,19 @@ c\) Tworzymy naszą bazę danych wybierając odpowiednie opcje:
 
 ![](../../.gitbook/assets/image%20%2817%29.png)
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 
 
 * tak powinna wyglądać opcja naszej bazy danych po jej zmianie na Basic w panelu głównym tworzenia usługi
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2874%29.png)
 
 
 
 * Klikamy Review + create, aby przejść do podsumowania tworzenia bazy danych
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2897%29.png)
 
 
 

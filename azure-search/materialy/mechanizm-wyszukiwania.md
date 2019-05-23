@@ -12,11 +12,11 @@ Aby to zrobić, klikamy Import data
 
 Przy połączeniu się z bazą danych wybieramy opcję Azure SQL Database
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
 Wybieramy istniejącą bazę jak na rysunku poniżej
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
 Wpisujemy nazwę naszego zródła i wpisujemy hasło, zdefiniowane podczas tworzenia serwera. Następnie klikamy Test connection
 
@@ -24,7 +24,7 @@ Wpisujemy nazwę naszego zródła i wpisujemy hasło, zdefiniowane podczas tworz
 
 Gdy wszystkie dane są poprawne wyskakuje nam kolejna opcja do wyboru, mianowicie nazwy tabel lub widoków znajdujących się w naszej bazie. My mamy tylko jedną tabelę \(Article\). Wybieramy ją i przechodzimy dalej.
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 Kolejny krok to wykorzystanie Cognitive Services do obsługi Searcha. Dzięki temu możemy wyłapywać różne ciekawe rzeczy w naszej wyszukiwarce typu nazwy organizacji w tekście lub imiona i nazwiska osób. Pomijamy ten krok, nie mamy jeszcze wiedzy o Cognitive Services. Warsztaty ukazują podstawowe możliwośi usługi. Klikamy Skip to: Customize target index.
 
@@ -42,13 +42,13 @@ W ostatnim kroku definiujemy pola naszego indeksu. Są one domyślnie mapowane z
 
 Na potrzeby warsztatów wybieramy wszystkie opcje i przechodzimy do następnego kroku -&gt; stworzenia indeksera.
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 Aby stworzyć indekser wpisujemy jego nazwę, która musi być unikalna w obrębie usługi. Następnie wybieramy częstotliwość jego uruchamiania -&gt; co ile czasu ma ściągać dane z naszej bazy danych do indeksu. W naszym przypadku wybieramy opcję Once. W trakcie trwania warsztatów będziemy go uruchamiać samodzielnie.
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 Klikamy opcję dodania indeksera na dole strony i gotowe, nasze dane zostały pobrane do indeksu. Możemy wyszukiwać.
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 

@@ -2,7 +2,7 @@
 
 Po wejściu na portal Azure wybieramy opcję Create a resource, a następnie znajdujemy zasób o nazwie Resource group, który będzie kontenerem na wszystkie usługi jakie stworzymy w ramach tego tutoriala.
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 Po kliknięciu na usługę powinniśmy zobaczyć jej opis oraz opcję Create, którą wybieramy.
 
@@ -10,7 +10,7 @@ Po kliknięciu na usługę powinniśmy zobaczyć jej opis oraz opcję Create, kt
 
 Powinniśmy wtedy zobaczyć formularz pozwalający na stworzenie wybranej usługi. Wybieramy subskrypcję w ramach, której chcemy stworzyć usługę, nadajemy nazwę naszej usłudze i wybieramy region w jakim zostanie utworzona oraz tworzymy usługę.
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 Następnie ponownie wybieramy opcję Create new resource i znajdujemy usługę o nazwie Web App.
 
@@ -35,7 +35,7 @@ Idąc od góry:
 
 To jest najważniejsza opcja przy tworzenie naszej usługi. Od niej będzie zależeć lokalizacja naszej usługi oraz jej wydajność i cena. Po kliknięciu w nią wybieramy Create new i w formularzu New App Service Plan wybieramy nazwę, lokalizację \(będzie ona miała wpływ na opóźnienia w komunikacji z naszą aplikacją\) i Pricing tier, czyli ile będziemy płacić za naszą usługę i jaką ilość zasobów będzie miała dostępną.
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2882%29.png)
 
 Po kliknięciu w Pricing tier pojawi się okno z kilkoma możliwościami do wyboru. wybieramy na górze Dev/Test i tier F1, a następnie klikamy Apply.
 
@@ -43,19 +43,19 @@ Po kliknięciu w Pricing tier pojawi się okno z kilkoma możliwościami do wybo
 
 Powinniśmy zostać z powrotem przekierowani do poprzedniego okna gdzie klikamy na dole Ok.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 * Application Insights - jest to usługa pozwalająca monitorować naszą aplikację pod kątem błędów, wykorzystania zasobów i komunikacji sieciowej. Po kliknięciu w nią wybieramy Disable, a następnie Apply.
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 Powinniśmy teraz z powrotem zobaczyć nasz początkowy formularz. Na samym dole wybieramy w nim opcję Create, aby stworzyć naszą usługę.
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 Po wejściu w naszą grupę zasobów:
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2887%29.png)
 
 Powinniśmy zobaczyć usługi, które stworzyliśmy:
 
@@ -63,5 +63,5 @@ Powinniśmy zobaczyć usługi, które stworzyliśmy:
 
 Po wybraniu usługi o typie App Service powinniśmy zobaczyć opcje jej dotyczące. Interesuje nas przycisk Get publish profile, po którego kliknięciu zostanie pobrany plik z danymi pozwalającymi publikować kod na nasz App Service. Powinniśmy zapisać go w bezpiecznym miejscu i nie dzielić się nim z nikim innym.
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 

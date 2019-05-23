@@ -8,7 +8,7 @@ Znajdujemy ją na portalu Azure i wybieramy opcję Delete resource group
 
 W formularzu podajemy nazwę naszej grupy zasobów i klikamy Delete.
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 
 

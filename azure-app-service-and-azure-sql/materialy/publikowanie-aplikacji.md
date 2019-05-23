@@ -12,13 +12,13 @@ Następnie otwieramy plik solucji \(z rozszerzeniem .sln\) pobranej aplikacji.
 
 A następnie uruchamiamy ją przyciskiem na górze.
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
 Aby opublikować naszą aplikację z poziomu Visual Studio, w oknie Solution Explorer klikamy prawym przyciskiem na nasz projekt i wybieramy opcję Publish.
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
-![](../../.gitbook/assets/image%20%28103%29.png)
+![](../../.gitbook/assets/image%20%28104%29.png)
 
 W nowo otwartym oknie w VS wybieramy opcję Start.
 
