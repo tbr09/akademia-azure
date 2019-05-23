@@ -1,0 +1,6 @@
+# Praca domowa
+
+1. Napisz zapytanie w Search Explorer, które zwróci ilość rekordów dla zapytania zawierającego słówko new oraz Rating większy lub równy 3.
+2. Zmodyfikuj tabelę bazodanową w taki sposób, aby dodać do niej nowe pole -&gt; Author \(wypełnij to pole danymi\) a następnie dodaj to pole do istniejącego indeksu. Rozwiązaniem zadania będzie zdjęcie z Search Explorer na portalu Azure, gdzie będzie przynajmniej jeden rekord z dowodem, że pole zostało dodane do bazy danych. Pierwsza osoba dostanie nagrodę. \(Skrypt SQL, który dodaje nowe pole do bazy i je uzupełnia znajduje się w folderze Homework2 -&gt; AddAuthorColumn.sql\).
+3. **Wymagania: Umiejętność stworzenia usługi Storage oraz wykorzystanie blob storage \(dodanie kontenera oraz pliku\).**                                                                                                                                                                      Stwórz usługę Azure Storage i wykorzystaj Blob Storage. Dodaj tam kontener o nazwie workshops, A następnie dodaj tam plik \(do kontenera\), znajdujący się w folderze Homework3. Stwórz usługę indeks, który będzie operował na danych Bloba na stworzonym wcześniej kontenerze. Rozwiązaniem jest zdjęcie z portalu Azure z wyszukiwarki, gdzie będą wyświetlone osoby znajdujące się na zdjęciu.
+
